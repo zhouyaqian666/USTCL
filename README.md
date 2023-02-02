@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 Training：
 
-sh train.sh
+sh run.sh
 
 Acknowledgment：
 
