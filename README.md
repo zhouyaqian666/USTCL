@@ -11,3 +11,7 @@ pip install -r requirements.txt
 Training：
 
 sh train.sh
+
+Acknowledgment：
+
+The structure of this code is largely based on ALDA and BNM. We are very grateful for their open source.
